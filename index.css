@@ -1,0 +1,16 @@
+#nama-label{
+    color: aqua;
+}
+#nama-password{
+    color: brown;
+}
+
+.login{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.login :hover{
+    transition: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+    
+}
